@@ -4,10 +4,10 @@ Hello, I'm Basant Babu Bhandari, a passionate computer engineer based in Kathman
 
 ## Connect With Us
 
-- **Email:** basantbhandari2074@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/basant-babu-bhandari-1384b81a6/
-- **Twitter:** https://twitter.com/BasantB52080659
-- **Website:** https://bio.link/basant_babu_bhandari
+- **[Email](basantbhandari2074@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/basant-babu-bhandari-1384b81a6/)**
+- **[Twitter](https://twitter.com/BasantB52080659)** 
+- **[Website](https://bio.link/basant_babu_bhandari)** 
 
 Feel free to reach out for collaboration, discussions, or any inquiries!
 
