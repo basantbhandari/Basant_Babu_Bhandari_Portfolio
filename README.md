@@ -1,5 +1,3 @@
-# Basant Babu Bhandari Portfolio
-
 # About
 
 Hello, I'm Basant Babu Bhandari, a passionate computer engineer based in Kathmandu, Nepal. I am dedicated to research in the fields of computer science, statistics, mathematics, artificial intelligence, and quantitative finance. With a background in Computer engineering, Software development, Problem-Solving, Artificial intelligence, Solution architecture, Machine Learning engineering, and Data engineering,  I bring a unique perspective to my work.
