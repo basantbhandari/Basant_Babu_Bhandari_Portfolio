@@ -51,30 +51,52 @@ I have maintained a high level of academic excellence throughout my educational 
 
 # Work Experience
 
-## Software Engineer at [Company Name]
-- *Location:* City, Country
-- *Duration:* Month/Year - Month/Year
-- *Description:* Brief description of your responsibilities and achievements in this role.
-
-## Data Analyst Intern at [Company Name]
-- *Location:* City, Country
-- *Duration:* Month/Year - Month/Year
-- *Description:* Brief description of your responsibilities and achievements during the internship.
-
-## Junior Developer at [Company Name]
-- *Location:* City, Country
-- *Duration:* Month/Year - Month/Year
-- *Description:* Brief description of your responsibilities and achievements in this role.
-
-...
+## Software Engineer at [Verisk]
+- *Location:* Lalitpur, Nepal
+- *Duration:* march/2023 - present
+- *Description:* Part of Dathub team, build data pipeline.
+- *skill:* Python, Java, AWS, Bamboo, octopus, bitbucket, SonarQube, batch, lambda, Jira
 
 
+## Software Engineer at [Tekvortex]
+- *Location:* Lalitpur, Nepal
+- *Duration:* Jun/2022 - march/2023
+- *Description:* Part of a unified communication team, worked to build various backend systems and build various data pipeline
+- *skill:* Python, C#, dotnet, Azure, Azure function, logic app,  GitHub, GitHub action, SonarQube, Jira, docker, react, Nest, Flask
 
+## Software Engineer Intern at [Leapfrog]
+- *Location:* Kathmandu, Nepal
+- *Duration:* Fab/2022 - Jun/2022
+- *Description:* converted various Figma projects into HTML, CSS, and javascript webpage, did various assignment projects and finally built the Photoshop clone web app and hosted them
+- *skill:* Figma, HTML, CSS, javascript, node, firebase, express, CICD, VCS
+
+## Software Engineer and Android app publisher at [Upwork]
+- *Location:* Bhaktapur, Nepal
+- *Duration:* Jun/2021 - Fab/2022
+- *Description:* worked as a freelancer and uploaded various Android apps to the play console
+- *skill:* Python, Java, AWS, Google Play Console, Android Studio, unity, unreal, GitHub, CICD
+
+## President at [y_group of companies]
+- *Location:* Bhaktapur, Nepal
+- *Duration:* July/2017 - present
+- *Description:* trying to build multiple verticals in tech that support each other to accumulate some value. Exploring opportunities. This startup is my way of expressing myself to the world
+- *skill:* c, c++, c#, java, python, R, ruby and rails, Go,  HTML, CSS, Django, Fortran, android studio, robotics, problem-solving, entrepreneurship, finance, economics, computer science, game development, data science and machine learning, unity, unreal, communication, understanding politics(how politics is the backbone of every business), understand the importance of teamwork(impact of working with best people vs average and below average team member), video editing, presenting, blogger, indie game developer, MVC, MVVC, design pattern, understand how to write better code and more.
 
 
 # My GitHub Projects
 
-## Data Science Projects
+## AI and Machine Learning Projects
+
+1. **Project Name 1**
+   - Description: Brief description of the data science project.
+   - GitHub Repository: [Project Name 1](https://github.com/username/project-name-1)
+
+2. **Project Name 2**
+   - Description: Brief description of the data science project.
+   - GitHub Repository: [Project Name 2](https://github.com/username/project-name-2)
+
+
+## Data Science and Data Mining Projects
 
 1. **Project Name 1**
    - Description: Brief description of the data science project.
@@ -100,7 +122,42 @@ I have maintained a high level of academic excellence throughout my educational 
    - Description: Brief description of the machine learning project.
    - GitHub Repository: [Project Name 5](https://github.com/username/project-name-5)
 
-...
+
+## Android Development Projects
+
+1. **Project Name 5**
+   - Description: Brief description of the machine learning project.
+   - GitHub Repository: [Project Name 5](https://github.com/username/project-name-5)
+
+
+
+## Game Development Projects
+
+1. **Project Name 5**
+   - Description: Brief description of the machine learning project.
+   - GitHub Repository: [Project Name 5](https://github.com/username/project-name-5)
+
+
+
+## BE College Projects
+
+1. **Project Name 5**
+   - Description: Brief description of the machine learning project.
+   - GitHub Repository: [Project Name 5](https://github.com/username/project-name-5)
+
+## Open Source Contribution Projects
+
+1. **Project Name 5**
+   - Description: Brief description of the machine learning project.
+   - GitHub Repository: [Project Name 5](https://github.com/username/project-name-5)
+
+
+## Side Projects
+
+1. **Project Name 5**
+   - Description: Brief description of the machine learning project.
+   - GitHub Repository: [Project Name 5](https://github.com/username/project-name-5)
+
 
 
 
