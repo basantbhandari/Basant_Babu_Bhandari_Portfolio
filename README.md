@@ -11,7 +11,7 @@ Hello, I'm Basant Babu Bhandari, a passionate computer engineer based in Kathman
 
 Feel free to reach out for collaboration, discussions, or any inquiries!
 
-# Projects
+# Major and Minor Projects in BE
 
 ## Project 1: Music From BALA: A Music Generation System
 
