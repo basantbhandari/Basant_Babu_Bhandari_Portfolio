@@ -25,9 +25,6 @@ Feel free to reach out for collaboration, discussions, or any inquiries!
 
 - [**Link to code:**](https://github.com/basantbhandari/Generation-Of-Nepali-Hand-written-letter-using-Generative-Adverserial-Network)
 
-
-...
-
 # Publications
 
 ## Publication 1: [NEPALI HANDWRITTEN LETTER GENERATION USING GAN]
@@ -41,8 +38,6 @@ Feel free to reach out for collaboration, discussions, or any inquiries!
 - **Authors:** [Basant Babu Bhandari]
 - **Journal/Conference:** [Github]
 - **Link:** [https://github.com/basantbhandari/Privilaged-GAN]
-
-...
 
 # Academic Score
 
