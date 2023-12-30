@@ -21,7 +21,7 @@ Feel free to reach out for collaboration, discussions, or any inquiries!
 
 ## Project 2: Neplali HandWritten Letter Generation Using Generative Adversarial Network
 
-- **Description:** The generative adversarial networks seem to work very effectively for training generative deep neural networks. Our proposed generative adversarial model that works on 36 class, each having 10,000 images, generates Nepali Handwritten Letters that are similar to the real-life data set of size 360,000 images. This research paper shows how a generative adversarial framework is used to tell the computer to generate a Nepali Handwritten Letter. Our objective is to synthesize Nepali Handwritten Letters using a learning framework called generative adversarial networks.
+- **Description:** The generative adversarial networks seem to work very effectively for training generative deep neural networks. Our proposed generative adversarial model that works on 36 classes, each having 10,000 images, generates Nepali Handwritten Letters that are similar to the real-life data set of size 360,000 images. This research paper shows how a generative adversarial framework is used to tell the computer to generate a Nepali Handwritten Letter. Our objective is to synthesize Nepali Handwritten Letters using a learning framework called generative adversarial networks.
 
 - [**Link to code:**](https://github.com/basantbhandari/Generation-Of-Nepali-Hand-written-letter-using-Generative-Adverserial-Network)
 
@@ -47,6 +47,66 @@ I have maintained a high level of academic excellence throughout my educational 
 - **College/University Percentage:** [CA:73%, final semester percentage: 82.37%]
 - **Honors and Awards:** [top 3 scoring students in the final semester in BE, top 1 scoring student in High School, top 1 scoring student in Mid School, in grade 11 highest scoring student in mathematics throughout the province with 96/100, student of the year in grade 11]
 
-Feel free to explore my [Linkedin Profile](https://www.linkedin.com/in/basant-babu-bhandari-1384b81a6/) for more details.
+
+
+# Work Experience
+
+## Software Engineer at [Company Name]
+- *Location:* City, Country
+- *Duration:* Month/Year - Month/Year
+- *Description:* Brief description of your responsibilities and achievements in this role.
+
+## Data Analyst Intern at [Company Name]
+- *Location:* City, Country
+- *Duration:* Month/Year - Month/Year
+- *Description:* Brief description of your responsibilities and achievements during the internship.
+
+## Junior Developer at [Company Name]
+- *Location:* City, Country
+- *Duration:* Month/Year - Month/Year
+- *Description:* Brief description of your responsibilities and achievements in this role.
+
+...
+
+
+
+
+
+# My GitHub Projects
+
+## Data Science Projects
+
+1. **Project Name 1**
+   - Description: Brief description of the data science project.
+   - GitHub Repository: [Project Name 1](https://github.com/username/project-name-1)
+
+2. **Project Name 2**
+   - Description: Brief description of the data science project.
+   - GitHub Repository: [Project Name 2](https://github.com/username/project-name-2)
+
+## Web Development Projects
+
+1. **Project Name 3**
+   - Description: Brief description of the web development project.
+   - GitHub Repository: [Project Name 3](https://github.com/username/project-name-3)
+
+2. **Project Name 4**
+   - Description: Brief description of the web development project.
+   - GitHub Repository: [Project Name 4](https://github.com/username/project-name-4)
+
+## Machine Learning Projects
+
+1. **Project Name 5**
+   - Description: Brief description of the machine learning project.
+   - GitHub Repository: [Project Name 5](https://github.com/username/project-name-5)
+
+...
+
+
+
+
+
+
+Feel free to explore my [LinkedIn profile](https://www.linkedin.com/in/basant-babu-bhandari-1384b81a6/) for more details.
 
 
