@@ -44,7 +44,7 @@ Feel free to reach out for collaboration, discussions, or any inquiries!
 I have maintained a high level of academic excellence throughout my educational journey.
 - **Mid School Percentage:** [80%]
 - **High School Percentage:** [75%]
-- **College/University Percentage:** [CA:73%, final semester percentage: 82.37%]
+- **College/University Percentage:** [Cumulative percentage: 73%, Final Semester Percentage: 82.37%]
 - **Honors and Awards:** [top 3 scoring students in the final semester in BE, top 1 scoring student in High School, top 1 scoring student in Mid School, in grade 11 highest scoring student in mathematics throughout the province with 96/100, student of the year in grade 11]
 
 
