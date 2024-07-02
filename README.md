@@ -90,7 +90,7 @@ I have maintained a high level of academic excellence throughout my educational 
 
 ## Founder and tech lead at [YesICBAP]
 - *Location:* Kathmandu, Nepal
-- *Duration:* July/2018 - July/2020
+- *Duration:* July/2019 - July/2020
 - *Description:* Develop and publish more then 20 android apps as well as games at google play console. Trying to build multiple verticals in tech that support each other to accumulate some value. Exploring opportunities. This startup is my way of expressing myself to the world
 - *skill:* c, c++, c#, java, python, R, ruby and rails, Go,  HTML, CSS, Django, Fortran, android studio, robotics, problem-solving, entrepreneurship, finance, economics, computer science, game development, data science and machine learning, unity, unreal, communication, understanding politics(how politics is the backbone of every business), understand the importance of teamwork(impact of working with best people vs average and below average team member), video editing, presenting, blogger, indie game developer, MVC, MVVC, design pattern, understand how to write better code and more.
 
