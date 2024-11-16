@@ -17,7 +17,7 @@ Feel free to reach out for collaboration, discussions, or any inquiries!
 
 - **Description:** This model is based on Privileged GAN v3 model architecture and we extract the musical information from the midi file using the music21 library. This library is used to extract a sequence of notes and chords present in the midi file. Then, we build the dictionary of notes to encode the notes into numbers and we find the sequence of numbers that represents the music considering the dictionary map. Then, build the model based on the privileged GAN v3 framework, each component of the model consists of an LSTM layer such that it works.
   
-- [**Link to code:**](https://github.com/basantbhandari/privilaged_GAN_LSTM_music_generation)
+- [**Link to code:**](https://github.com/basantbhandari/privileged_GAN_LSTM_music_generation)
 
 ## Project 2: Neplali HandWritten Letter Generation Using Generative Adversarial Network
 
@@ -115,9 +115,9 @@ I have maintained a high level of academic excellence throughout my educational 
    - Description: Brief description of the project.
    - GitHub Repository: [Nepali Handwritten letter classifier](https://github.com/basantbhandari/NepaliHandWrittenClassifier)
 
-5. **Privilaged-GAN**
+5. **Privileged-GAN**
    - Description: Brief description of the project.
-   - GitHub Repository: [Privilaged-GAN](https://github.com/basantbhandari/Privilaged-GAN)
+   - GitHub Repository: [Privileged-GAN](https://github.com/basantbhandari/Privileged-GAN)
 
 
 
