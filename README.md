@@ -33,11 +33,11 @@ Feel free to reach out for collaboration, discussions, or any inquiries!
 - **Journal/Conference:** [Journal of Science & Engineering]
 - **Link:** [https://jsce.com.np/files/Volume_9/7_Basant_Babu.pdf]
 
-## Publication 2: [Privilaged-GAN]
+## Publication 2: [Privileged-GAN]
 
 - **Authors:** [Basant Babu Bhandari]
 - **Journal/Conference:** [Github]
-- **Link:** [https://github.com/basantbhandari/Privilaged-GAN]
+- **Link:** [https://github.com/basantbhandari/Privileged-GAN]
 
 # Certifications
 
